@@ -1,12 +1,11 @@
 <!--
  * @Author: BDFD
- * @Date: 2022-02-24 11:33:25
- * @LastEditTime: 2022-02-24 11:33:31
+ * @Date: 2022-02-23 11:35:09
+ * @LastEditTime: 2022-02-23 11:45:13
  * @LastEditors: BDFD
- * @Description: 
- * @FilePath: \3.4-E-book_Template\CODE_OF_CONDUCT.md
+ * @Description:
+ * @FilePath: \3.0-Course-Name_Coursera_Template\CODE_OF_CONDUCT.md
 -->
-
 
 # Contributor Covenant Code of Conduct
 
